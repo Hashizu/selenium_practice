@@ -1,10 +1,12 @@
 # seleniume practice
 
 ## 概要
-seleniumの練習がしたい
-動くけどpoetry無視して構築してしまった
+seleniumの練習がしたい。
+動くけどpoetry無視して構築してしまった。
 
-# 前準備
+Instagramから指定のタグ（KEYWORDとしてハードコーディング）の画像を一定数ダウンロードする。
+
+## 前準備
 正しいバージョンのchrome driver-binaryを導入する必要がある。
 
 *pip環境で入れるとpylanceが対応しなかった…？ので後のことを考えてcodndaでchromedriverを導入。
